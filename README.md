@@ -92,11 +92,11 @@ I design and build high-availability systems with a focus on SRE principles, clo
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrueBurn&theme=algolia" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=TrueBurn&theme=algolia" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TrueBurn&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TrueBurn&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 <picture>
