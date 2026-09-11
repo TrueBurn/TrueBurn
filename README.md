@@ -1,6 +1,6 @@
-# Ricus Nortje | SRE Architect
+# Ricus Nortje | Staff Engineer
 
-**Architect at [Capitec Bank](https://www.capitecbank.co.za/)** | 17+ years building reliable, scalable systems
+**Staff Engineer at [Capitec Bank](https://www.capitecbank.co.za/)** | 17+ years building reliable, scalable systems
 
 I design and build high-availability systems with a focus on SRE principles, cloud-native architecture, and DevOps culture. My career spans from hands-on development to architectural leadership across fintech, backup/disaster recovery, and ed-tech industries.
 
@@ -73,7 +73,8 @@ I design and build high-availability systems with a focus on SRE principles, clo
 
 ### Career Highlights
 
-- **Capitec Bank** — Architect for mobile app platform and SRE (2023–Present)
+- **Capitec Bank** — Staff Engineer, platform engineering and SRE (2026–Present)
+- **Capitec Bank** — Architect for mobile app platform and SRE (2023–2026)
 - **Redstor** — Platform engineering for disaster recovery systems (2022–2023)
 - **UNi4 Online** — Built cloud-first ed-tech platform from scratch (2020–2022)
 - **Zapper** — 5+ years as DevOps/SRE for fintech payments platform (2014–2020)
